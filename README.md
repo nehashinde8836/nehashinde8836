@@ -49,6 +49,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Shinde-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neha-shinde-software-engineer)  
 [![GitHub](https://img.shields.io/badge/GitHub-@nehashinde8836-black?style=for-the-badge&logo=github)](https://github.com/nehashinde8836)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/nehashinde8836)  
-[![LeetCode](https://img.shields.io/badge/CodeChef-Profile-orange?style=for-the-badge&logo=codechef)](https://leetcode.com/u/Neha_Shinde/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FF7F00?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Neha_Shinde/)
+
 
 
