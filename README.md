@@ -10,10 +10,9 @@
 ## 📫 Contact Me
 
 - **Email:** nehashinde8836@gmail.com  
-- **Mobile:** +91 9527433207  
 - **Location:** Pune, India  
 - **LinkedIn:** [Neha Shinde](https://www.linkedin.com/in/neha-shinde-software-engineer)  
-- **GitHub:** [neha-shinde](https://github.com/neha-shinde)  
+- **GitHub:** [neha-shinde](https://github.com/nehashinde8836)  
 
 ---
 
