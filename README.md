@@ -80,8 +80,8 @@
 
 ## 📊 GitHub Stats
 
-![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neha-shinde&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-shinde&layout=compact&theme=radical)  
+![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neha-shinde8836&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-shinde8836&layout=compact&theme=radical)  
 
 ---
 
