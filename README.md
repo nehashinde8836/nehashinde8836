@@ -45,5 +45,5 @@
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/neha-shinde-software-engineer) | [GitHub](https://github.com/nehashinde8836)  
+[LinkedIn](https://www.linkedin.com/in/neha-shinde-software-engineer) | [GitHub](https://github.com/nehashinde8836)  | [LeetCode](https://leetcode.com/u/Neha_Shinde/)
 
