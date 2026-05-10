@@ -1,4 +1,3 @@
-markdown id="pro92x"
 # Neha Shinde
 
 <h3 align="center">B.Tech Computer Engineering Student | Full Stack Developer | AI/ML Enthusiast</h3>
@@ -57,7 +56,6 @@ Passionate about building scalable web applications, AI-powered solutions, and a
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </td>
 </tr>
@@ -80,7 +78,6 @@ Passionate about building scalable web applications, AI-powered solutions, and a
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </td>
 </tr>
@@ -220,9 +217,6 @@ Web-based online examination platform for conducting and managing digital assess
 # Currently Learning
 
 - AI Integration in Full Stack Applications
-- Advanced React Development
-- TypeScript
-- Flutter Development
 - Cloud Deployment & AWS Services
 
 ---
