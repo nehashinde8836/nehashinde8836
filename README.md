@@ -221,14 +221,11 @@ Web-based online examination platform for conducting and managing digital assess
 
 ---
 
-# GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nehashinde8836&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehashinde8836&layout=compact&theme=tokyonight" height="180em"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehashinde8836&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehashinde8836&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
