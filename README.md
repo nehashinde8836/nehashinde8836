@@ -1,55 +1,135 @@
-# Hi there 👋, I'm Neha Shinde
+# Neha Shinde
 
-🌱 B.Tech Computer Engineering Student | Full Stack Developer | AI/ML Enthusiast  
-👩‍💻 Passionate about building real-world solutions using modern technologies  
-✨ “Always learning. Always building. Always evolving.”
+B.Tech Computer Engineering Student | Full Stack Developer | AI/ML Enthusiast
 
----
-
-## 💻 Tech Skills
-
-**Languages:** Java, Python, SQL, HTML5, CSS3, JavaScript  
-**Frontend:** React.js, Flutter (Beginner)  
-**Backend:** Python (Django), Node.js, REST APIs  
-**Databases:** MySQL  
-**Tools & Platforms:** GitHub, VS Code, Firebase, ImageKit  
-**Cloud:** AWS Cloud  
+Passionate about building scalable web applications, AI-powered solutions, and accessibility-focused software. Interested in Full Stack Development, Artificial Intelligence, Cloud Technologies, and Software Engineering.
 
 ---
 
-## 🔹 Selected Projects
+## About Me
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **EngiLearn AI** | AI-powered platform for engineering students to generate & revise notes using AI summaries, flashcards, and Q&A | React.js, CSS, HTML, JavaScript, Firebase/ImageKit |
-| **Electric Motor Temperature Prediction** | ML models to predict motor temperature accurately | Python, Pandas, NumPy, Scikit-learn |
-| **Weather Application** | Real-time weather app with interactive UI | HTML, CSS, JavaScript, OpenWeatherMap API |
-| **Online Examination System** | Web app for conducting online exams | PHP, MySQL, HTML, CSS, JavaScript |
-
----
-
-## 🌱 Currently Learning
-
-- AI/ML integration with Full Stack Projects  
-- TypeScript & Clean Architecture in React  
-- Cross-platform App Development with Flutter & React Native  
+- B.Tech Computer Engineering Student
+- Strong interest in Full Stack Development and AI/ML
+- Experience building real-world academic and personal projects
+- Skilled in developing responsive web applications and AI-based systems
+- Continuous learner focused on modern software technologies
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
 
-![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehashinde8836&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehashinde8836&layout=compact&theme=radical)  
+### Programming Languages
+- Python
+- JavaScript
+- SQL
+- C++
+- C
+
+### Frontend Development
+- React.js
+- HTML5
+- CSS3
+
+### Backend Development
+- Django
+- Django REST Framework
+- REST APIs
+
+### Database
+- MySQL
+- PostgreSQL
+- SQLite
+
+### AI / ML
+- Scikit-learn
+- Pandas
+- NumPy
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Firebase
+- ImageKit
+
+### Cloud & Technologies
+- AWS Cloud
+- JWT Authentication
+- Vosk Speech Recognition
+- pyttsx3 Text-to-Speech
 
 ---
 
-## 🌐 Connect with Me
+## Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlescholar)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Shinde-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/neha-shinde-software-engineer)  
-[![GitHub](https://img.shields.io/badge/GitHub-@nehashinde8836-black?style=for-the-badge&logo=github)](https://github.com/nehashinde8836)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/nehashinde8836)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FF7F00?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Neha_Shinde/)
+### TalentLink – Freelance Marketplace Platform
+Full-stack freelance marketplace platform that allows clients and freelancers to manage projects, proposals, contracts, and communication through a secure workflow system.
 
+**Tech Stack:** React.js, Django, Django REST Framework, Python, JWT Authentication
 
+---
 
+### Offline Marathi Voice-Based AI Tutor for Visually Impaired Students
+AI-powered offline voice assistant designed for visually impaired students to learn mathematics in Marathi using voice interaction, speech recognition, quizzes, and theorem explanations.
+
+**Tech Stack:** Python, Flask, Vosk, pyttsx3, Speech Recognition, HTML, CSS, JavaScript
+
+---
+
+### EngiLearn AI
+AI-powered educational platform for engineering students to generate smart notes, summaries, flashcards, and question-answer learning modules.
+
+**Tech Stack:** React.js, JavaScript, Firebase, ImageKit, HTML, CSS
+
+---
+
+### Electric Motor Temperature Prediction
+Machine learning project focused on predicting electric motor temperature using regression-based ML models and data analysis techniques.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn
+
+---
+
+### Weather Application
+Responsive weather forecasting application with real-time weather updates using external APIs.
+
+**Tech Stack:** HTML, CSS, JavaScript, OpenWeatherMap API
+
+---
+
+### Online Examination System
+Web-based online examination platform for conducting and managing digital assessments.
+
+**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
+
+---
+
+## Currently Learning
+
+- AI Integration in Full Stack Applications
+- Advanced React Development
+- TypeScript
+- Flutter & Cross-Platform Development
+- Cloud-Based Deployment
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehashinde8836&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehashinde8836&layout=compact&theme=default)
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/neha-shinde-software-engineer
+- GitHub: https://github.com/nehashinde8836
+- HackerRank: https://www.hackerrank.com/profile/nehashinde8836
+- LeetCode: https://leetcode.com/u/Neha_Shinde/
+
+---
+
+## Profile Summary
+
+Focused on building practical software solutions using Full Stack Development and Artificial Intelligence. Interested in solving real-world problems through scalable applications, accessible systems, and modern software technologies.
